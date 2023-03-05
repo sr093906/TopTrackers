@@ -314,8 +314,6 @@
 ||adverticum.net$third-party
 ||advertise.com$third-party
 ||advertisespace.com$third-party
-||advertising-tracker.contoso.example$third-party
-||advertising-tracker.msedgedemo.example$third-party
 ||advertising.com$third-party
 ||advertising.yahoo.com$third-party
 ||advertserve.com$third-party
@@ -404,7 +402,6 @@
 ||an.yandex.ru$third-party
 ||anadcoads.com$third-party
 ||analytics-egain.com$third-party
-||analytics-tracker.msedgedemo.example$third-party
 ||analytics.blue$third-party
 ||analytics.edgekey.net$third-party
 ||analytics.yahoo.com$third-party
@@ -867,7 +864,6 @@
 ||crypto-loot.com$third-party
 ||crypto-webminer.com$third-party
 ||cryptolootminer.com$third-party
-||cryptominer.msedgedemo.example$third-party
 ||csdata1.com$third-party
 ||csdata2.com$third-party
 ||csdata3.com$third-party
@@ -1114,7 +1110,6 @@
 ||ezoic.net$third-party
 ||ezoiccdn.com$third-party
 ||eztargetmedia.com$third-party
-||fabrikam.msedgedemo.example$third-party
 ||facil-iti.com$third-party
 ||facilitatedigital.com$third-party
 ||factortg.com$third-party
@@ -2732,7 +2727,6 @@
 ||valueclickmedia.com$third-party
 ||valuecommerce.com$third-party
 ||valuedopinions.co.uk$third-party
-||vanarsdel.msedgedemo.example$third-party
 ||various.com$third-party
 ||vcmedia.vn$third-party
 ||vdna-assets.com$third-party
