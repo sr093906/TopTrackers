@@ -1005,7 +1005,6 @@
 ||eccmp.com$third-party
 ||echosearch.com$third-party
 ||ecsanalytics.com$third-party
-||edgecastcdn.net$third-party
 ||eds5.mailcamp.nl$third-party
 ||effectivemeasure.com$third-party
 ||effectivemeasure.net$third-party
