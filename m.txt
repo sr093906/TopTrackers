@@ -1,8 +1,10 @@
-!
-! Expires: 60 days 
-! Title: TopTrackers (third-party blocking only)
-! Version: 2023.05.06
 [AdBlockPlus 1.1]
+!
+! Title: TopTrackers (third-party blocking only)
+! Expires: 60 days 
+!
+! Version: 2023.05.06
+!
 ||1666210260.rsc.cdn77.org$third-party
 ||1dmp.io$third-party
 ||1gr.cz$third-party
