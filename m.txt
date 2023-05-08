@@ -1,10 +1,8 @@
-[AdBlockPlus 1.1]
 !
-! Title: TopTrackers (third-party blocking only)
 ! Expires: 60 days 
-!
+! Title: TopTrackers (third-party blocking only)
 ! Version: 2023.05.06
-!
+[AdBlockPlus 1.1]
 ||1666210260.rsc.cdn77.org$third-party
 ||1dmp.io$third-party
 ||1gr.cz$third-party
@@ -28,9 +26,11 @@
 ||71i.de$third-party
 ||777seo.com$third-party
 ||9c9media.ca$third-party
+||a-ads.com$third-party
 ||a-mo.net$third-party
 ||a-mx.com$third-party
 ||a2z.com$third-party
+||a8.net$third-party
 ||aadrm.com$third-party
 ||aamapi.com$third-party
 ||aamsitecertifier.com$third-party
@@ -46,6 +46,8 @@
 ||acidpigs.com$third-party
 ||acint.net$third-party
 ||acompli.net$third-party
+||acpm.fr$third-party
+||acquia.com$third-party
 ||acquisio.com$third-party
 ||acsbapp.com$third-party
 ||act-on.com$third-party
@@ -81,6 +83,7 @@
 ||adelixir.com$third-party
 ||adelphic.com$third-party
 ||adentifi.com$third-party
+||adespresso.com$third-party
 ||adextrem.com$third-party
 ||adform.com$third-party
 ||adform.net$third-party
@@ -119,6 +122,7 @@
 ||admeld.com$third-party
 ||admicro.vn$third-party
 ||admission.net$third-party
+||admitad.com$third-party
 ||admixer.co.kr$third-party
 ||admixer.net$third-party
 ||admob.com$third-party
@@ -136,6 +140,7 @@
 ||adomik.com$third-party
 ||adop.cc$third-party
 ||adorableanger.com$third-party
+||adoric.com$third-party
 ||adotmob.com$third-party
 ||adotube.com$third-party
 ||adparlor.com$third-party
@@ -147,6 +152,7 @@
 ||adreactor.com$third-party
 ||adready.com$third-party
 ||adreadytractions.com$third-party
+||adrecord.com$third-party
 ||adriver.ru$third-party
 ||adroll.com$third-party
 ||adrta.com$third-party
@@ -254,6 +260,7 @@
 ||amung.us$third-party
 ||an.yandex.ru$third-party
 ||analytics-egain.com$third-party
+||analytics.clickdimensions.com$third-party
 ||analytics.edgekey.net$third-party
 ||analytics.yahoo.com$third-party
 ||ancientact.com$third-party
@@ -272,6 +279,7 @@
 ||appboycdn.com$third-party
 ||appcast.io$third-party
 ||appconsent.io$third-party
+||appcues.com$third-party
 ||appdynamics.com$third-party
 ||appflood.com$third-party
 ||appier.com$third-party
@@ -324,6 +332,7 @@
 ||avocet.io$third-party
 ||awaps.yandex.ru$third-party
 ||aweber.com$third-party
+||awempire.com$third-party
 ||aweprt.com$third-party
 ||awin.com$third-party
 ||awltovhc.com$third-party
@@ -385,6 +394,7 @@
 ||bloomreach.com$third-party
 ||bluecava.com$third-party
 ||blueconic.net$third-party
+||bluecore.com$third-party
 ||bluekai.com$third-party
 ||bluelithium.com$third-party
 ||bluestreak.com$third-party
@@ -413,6 +423,7 @@
 ||brand-display.com$third-party
 ||brandaffinity.net$third-party
 ||brandmetrics.com$third-party
+||brandwatch.com$third-party
 ||brcdn.com$third-party
 ||breadbalance.com$third-party
 ||breaktime.com.tw$third-party
@@ -435,6 +446,7 @@
 ||bttrack.com$third-party
 ||btttag.com$third-party
 ||bucksense.com$third-party
+||bugherd.com$third-party
 ||bulbbait.com$third-party
 ||bumlam.com$third-party
 ||burnbubble.com$third-party
@@ -489,7 +501,9 @@
 ||cdkglobal.com$third-party
 ||cdn-btsg.com$third-party
 ||cdn-sitegainer.com$third-party
+||cdn.pricespider.com$third-party
 ||cdn.uk.exponea.com$third-party
+||cdn.yektanet.com$third-party
 ||cdnma.com$third-party
 ||cdnwidget.com$third-party
 ||cedato.com$third-party
@@ -551,6 +565,7 @@
 ||clixtell.com$third-party
 ||clksite.com$third-party
 ||clmbtech.com$third-party
+||cloud.chatbeacon.io$third-party
 ||cloudapp.net$third-party
 ||cloudflareinsights.com$third-party
 ||clustrmaps.com$third-party
@@ -612,6 +627,8 @@
 ||convertkit.com$third-party
 ||convertlanguage.com$third-party
 ||convertro.com$third-party
+||cookie-script.com$third-party
+||cookiebot.com$third-party
 ||cookieinformation.com$third-party
 ||cookiepro.com$third-party
 ||cootlogix.com$third-party
@@ -623,6 +640,7 @@
 ||cpmstar.com$third-party
 ||cpx.to$third-party
 ||cpxinteractive.com$third-party
+||cqcounter.com$third-party
 ||cquotient.com$third-party
 ||crabbychin.com$third-party
 ||crashlytics.com$third-party
@@ -658,6 +676,7 @@
 ||cxense.com$third-party
 ||d-bi.fr$third-party
 ||d.kickfire.com$third-party
+||d1af033869koo7.cloudfront.net$third-party
 ||d2.shared.global.fastly.net$third-party
 ||da-services.ch$third-party
 ||dac.co.jp$third-party
@@ -863,9 +882,11 @@
 ||financefear.com$third-party
 ||financialcontent.com$third-party
 ||fitanalytics.com$third-party
+||fivetran.com$third-party
 ||fixedfold.com$third-party
 ||fksnk.com$third-party
 ||flashtalking.com$third-party
+||flocktory.com$third-party
 ||flowerstreatment.com$third-party
 ||floweryflavor.com$third-party
 ||fluct.jp$third-party
@@ -915,6 +936,7 @@
 ||gaug.es$third-party
 ||gb-world.net$third-party
 ||gbqofs.com$third-party
+||gdeslon.ru$third-party
 ||geistm.com$third-party
 ||gemius.com$third-party
 ||gemius.pl$third-party
@@ -999,6 +1021,7 @@
 ||hilltopads.com$third-party
 ||histats.com$third-party
 ||hit-parade.com$third-party
+||hit.ua$third-party
 ||hitbox.com$third-party
 ||hitslink.com$third-party
 ||hitsprocessor.com$third-party
@@ -1098,6 +1121,7 @@
 ||intentiq.com$third-party
 ||intentmedia.com$third-party
 ||intentmedia.net$third-party
+||intercom.com$third-party
 ||intergi.com$third-party
 ||intergient.com$third-party
 ||intermarkets.net$third-party
@@ -1225,6 +1249,8 @@
 ||lockerdome.com$third-party
 ||lockerz.com$third-party
 ||loggly.com$third-party
+||logly.co.jp$third-party
+||lomadee.com$third-party
 ||longingtrees.com$third-party
 ||loop11.com$third-party
 ||loopme.com$third-party
@@ -1269,6 +1295,7 @@
 ||matheranalytics.com$third-party
 ||mathtag.com$third-party
 ||matomo.cloud$third-party
+||matomo.org$third-party
 ||matomy.com$third-party
 ||maxbounty.com$third-party
 ||maxymiser.com$third-party
@@ -1291,6 +1318,7 @@
 ||mediaforge.com$third-party
 ||mediago.io$third-party
 ||mediamath.com$third-party
+||mediametrics.ru$third-party
 ||mediametrie-estat.com$third-party
 ||mediaocean.com$third-party
 ||mediaplex.com$third-party
@@ -1358,6 +1386,7 @@
 ||mouseflow.com$third-party
 ||movabletype.com$third-party
 ||movemeal.com$third-party
+||moz.com$third-party
 ||mparticle.com$third-party
 ||mpeasylink.com$third-party
 ||mrf.io$third-party
@@ -1447,6 +1476,7 @@
 ||ojrq.net$third-party
 ||omappapi.com$third-party
 ||omnicomgroup.com$third-party
+||omniconvert.com$third-party
 ||omnisnippet1.com$third-party
 ||omnisrc.com$third-party
 ||omnitagjs.com$third-party
@@ -1463,10 +1493,12 @@
 ||onestat.com$third-party
 ||onet.pl$third-party
 ||onetag-sys.com$third-party
+||onetrust.com$third-party
 ||onevision.com.tw$third-party
 ||online-metrix.net$third-party
 ||onmicrosoft.com$third-party
 ||oo-syringe.com$third-party
+||oopt.fr$third-party
 ||opecloud.com$third-party
 ||open-system.fr$third-party
 ||open.mkt1937.com$third-party
@@ -1533,6 +1565,7 @@
 ||p.yotpo.com$third-party
 ||pagefair.com$third-party
 ||pagefair.net$third-party
+||pages01.net$third-party
 ||pages02.net$third-party
 ||pages03.net$third-party
 ||pages04.net$third-party
@@ -1549,6 +1582,7 @@
 ||parchedsofa.com$third-party
 ||pardot.com$third-party
 ||parsely.com$third-party
+||partner-ads.com$third-party
 ||partplanes.com$third-party
 ||passivepolo.com$third-party
 ||paulstamatiou.com$third-party
@@ -1561,6 +1595,7 @@
 ||pebblepost.com$third-party
 ||peer39.com$third-party
 ||peerfly.com$third-party
+||pendo.io$third-party
 ||pepperjam.com$third-party
 ||perfdrive.com$third-party
 ||perfectmarket.com$third-party
@@ -1672,6 +1707,7 @@
 ||qognvtzku-x.global.ssl.fastly.net$third-party
 ||qsstats.com$third-party
 ||qualaroo.com$third-party
+||qualtrics.com$third-party
 ||quantcast.com$third-party
 ||quantcount.com$third-party
 ||quantserve.com$third-party
@@ -1714,6 +1750,8 @@
 ||reconditerespect.com$third-party
 ||recruitics.com$third-party
 ||reemo-ad.jp$third-party
+||reevoo.com$third-party
+||refersion.com$third-party
 ||rehabilitatereason.com$third-party
 ||reichelcormier.bid$third-party
 ||reinvigorate.net$third-party
@@ -1736,6 +1774,7 @@
 ||revcontent.com$third-party
 ||revenuegrid.com$third-party
 ||reviews.io$third-party
+||revolvermaps.com$third-party
 ||revsci.net$third-party
 ||revtrax.com$third-party
 ||rezync.com$third-party
@@ -1788,6 +1827,7 @@
 ||sail-horizon.com$third-party
 ||saleshandy.com$third-party
 ||salesloft.com$third-party
+||salesmanago.com$third-party
 ||salesmanago.pl$third-party
 ||samba.tv$third-party
 ||samesticks.com$third-party
@@ -1847,6 +1887,7 @@
 ||sendpulse.com$third-party
 ||sensic.net$third-party
 ||sensis.com.au$third-party
+||sentry.io$third-party
 ||servebom.com$third-party
 ||servedbyadbutler.com$third-party
 ||servedbyopenx.com$third-party
@@ -2022,6 +2063,7 @@
 ||sumologic.com$third-party
 ||sundaysky.com$third-party
 ||sunmedia.tv$third-party
+||supercounters.com$third-party
 ||superficialeyes.com$third-party
 ||superficialspring.com$third-party
 ||superficialsquare.com$third-party
@@ -2087,6 +2129,7 @@
 ||tongdun.cn$third-party
 ||tongdun.net$third-party
 ||top100.ru$third-party
+||toplist.cz$third-party
 ||touchclarity.com$third-party
 ||touchcommerce.com$third-party
 ||townsquare.media$third-party
@@ -2112,6 +2155,7 @@
 ||trafficjunky.com$third-party
 ||trafficmanager.net$third-party
 ||trafficscore.com$third-party
+||trafficstars.com$third-party
 ||trafmag.com$third-party
 ||travelaudience.com$third-party
 ||traversedlp.com$third-party
@@ -2129,6 +2173,7 @@
 ||trueffect.com$third-party
 ||trueleadid.com$third-party
 ||truoptik.com$third-party
+||trustarc.com$third-party
 ||truste-svc.net$third-party
 ||trustedsite.com$third-party
 ||trustx.org$third-party
@@ -2174,12 +2219,14 @@
 ||usabilla.com$third-party
 ||usbrowserspeed.com$third-party
 ||usebutton.com$third-party
+||useinsider.com$third-party
 ||uselesslumber.com$third-party
 ||usemax.de$third-party
 ||user.com$third-party
 ||userapi.com$third-party
 ||usercentrics.eu$third-party
 ||usergram.info$third-party
+||userlike.com$third-party
 ||userreport.com$third-party
 ||usocial.pro$third-party
 ||uuidksinc.net$third-party
@@ -2254,6 +2301,7 @@
 ||webedia-group.com$third-party
 ||webengage.com$third-party
 ||webeyez.com$third-party
+||webgains.com$third-party
 ||webgains.io$third-party
 ||webgozar.com$third-party
 ||webgozar.ir$third-party
@@ -2277,7 +2325,9 @@
 ||werk21system.de$third-party
 ||wgplayer.com$third-party
 ||whiteops.com$third-party
+||whos.amung.us$third-party
 ||wideorbit.com$third-party
+||widerplanet.com$third-party
 ||widespace.com$third-party
 ||widgetserver.com$third-party
 ||wingify.com$third-party
