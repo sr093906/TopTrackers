@@ -403,7 +403,6 @@
 ||blogcatalog.com$third-party
 ||blogher.com$third-party
 ||blogherads.com$third-party
-||blogspot.com$third-party
 ||bloom-hq.com$third-party
 ||bloomreach.com$third-party
 ||bluecava.com$third-party
@@ -2042,7 +2041,6 @@
 ||spreadshirts.net$third-party
 ||springserve.com$third-party
 ||sptracking.getblueshift.com$third-party
-||sputnik.ru$third-party
 ||spylog.com$third-party
 ||srvmath.com$third-party
 ||sspinc.io$third-party
