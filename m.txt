@@ -5,6 +5,7 @@
 !
 ! Version: 2023.05.06
 !
+||00px.net$third-party
 ||1666210260.rsc.cdn77.org$third-party
 ||1dmp.io$third-party
 ||1gr.cz$third-party
@@ -64,6 +65,8 @@
 ||ad-stir.com$third-party
 ||ad.gt$third-party
 ||ad4game.com$third-party
+||ad4m.at$third-party
+||ad4mat.de$third-party
 ||ad6media.fr$third-party
 ||adacado.com$third-party
 ||adadvisor.net$third-party
@@ -114,6 +117,7 @@
 ||adlucent.com$third-party
 ||admagnet.net$third-party
 ||admailtiser.com$third-party
+||adman.gr$third-party
 ||admanmedia.com$third-party
 ||admarketplace.com$third-party
 ||admarketplace.net$third-party
@@ -130,6 +134,7 @@
 ||admob.com$third-party
 ||admost.com$third-party
 ||adnami.io$third-party
+||adnet.de$third-party
 ||adnetwork.vn$third-party
 ||adnext.fr$third-party
 ||adnium.com$third-party
@@ -174,14 +179,18 @@
 ||adsfac.eu$third-party
 ||adsfac.net$third-party
 ||adsfac.us$third-party
+||adskeeper.co.uk$third-party
+||adskeeper.com$third-party
 ||adsnative.com$third-party
 ||adspeed.com$third-party
 ||adspeed.net$third-party
 ||adspirit.com$third-party
 ||adspirit.de$third-party
 ||adspirit.net$third-party
+||adsquare.com$third-party
 ||adsrvr.org$third-party
 ||adstanding.com$third-party
+||adstune.com$third-party
 ||adsupply.com$third-party
 ||adswizz.com$third-party
 ||adsymptotic.com$third-party
@@ -271,6 +280,7 @@
 ||annoyedairport.com$third-party
 ||annoyingacoustics.com$third-party
 ||annoyingclover.com$third-party
+||ansira.com$third-party
 ||answerscloud.com$third-party
 ||anymind360.com$third-party
 ||api-01.moengage.com$third-party
@@ -316,6 +326,7 @@
 ||atwola.com$third-party
 ||au.edgekey.net$third-party
 ||audience2media.com$third-party
+||audiencemanager.de$third-party
 ||audioeye.com$third-party
 ||auditedmedia.com$third-party
 ||auditude.com$third-party
@@ -350,6 +361,7 @@
 ||bannerflow.com$third-party
 ||bannerflow.net$third-party
 ||barilliance.com$third-party
+||basis.net$third-party
 ||basketballbelieve.com$third-party
 ||batanga.com$third-party
 ||batch.com$third-party
@@ -567,6 +579,7 @@
 ||clixtell.com$third-party
 ||clksite.com$third-party
 ||clmbtech.com$third-party
+||cloud-media.fr$third-party
 ||cloud.chatbeacon.io$third-party
 ||cloudapp.net$third-party
 ||cloudflareinsights.com$third-party
@@ -687,7 +700,10 @@
 ||damdoor.com$third-party
 ||dampdock.com$third-party
 ||dapper.net$third-party
+||dartsearch.net$third-party
 ||datadoghq-browser-agent.com$third-party
+||datadome.co$third-party
+||datamind.ru$third-party
 ||datapipe.com$third-party
 ||dataxu.com$third-party
 ||datmean.com$third-party
@@ -873,6 +889,7 @@
 ||fearlessfaucet.com$third-party
 ||federatedmedia.net$third-party
 ||feedjit.com$third-party
+||fengkongcloud.com$third-party
 ||fetchback.com$third-party
 ||fewjuice.com$third-party
 ||fewkittens.com$third-party
@@ -896,6 +913,7 @@
 ||flutteringfireman.com$third-party
 ||flux-cdn.com$third-party
 ||fmpub.net$third-party
+||fndrsp.net$third-party
 ||followup.cc$third-party
 ||fomo.com$third-party
 ||forceusercontent.com$third-party
@@ -969,6 +987,7 @@
 ||gloriousbeef.com$third-party
 ||gmelius.com$third-party
 ||gmossp-sp.jp$third-party
+||gnezdo.ru$third-party
 ||go-mpulse.net$third-party
 ||godatafeed.com$third-party
 ||godpvqnszo.com$third-party
@@ -1018,6 +1037,7 @@
 ||heapanalytics.com$third-party
 ||heias.com$third-party
 ||hellobar.com$third-party
+||helpscout.net$third-party
 ||hi-media.com$third-party
 ||hiconversion.com$third-party
 ||hilltopads.com$third-party
@@ -1071,6 +1091,7 @@
 ||iheart.com$third-party
 ||ihrinferno.map.fastly.net$third-party
 ||ihs.com$third-party
+||iivt.com$third-party
 ||iljmp.com$third-party
 ||illiweb.com$third-party
 ||im-apps.net$third-party
@@ -1164,6 +1185,7 @@
 ||jads.co$third-party
 ||jimstatic.com$third-party
 ||jinkads.com$third-party
+||jivosite.com$third-party
 ||jivox.com$third-party
 ||journity.com$third-party
 ||jp.edgekey.net$third-party
@@ -1189,6 +1211,7 @@
 ||keymetric.net$third-party
 ||keywee.co$third-party
 ||kissmetrics.com$third-party
+||kitewheel.com$third-party
 ||kiybdhzql-g.global.ssl.fastly.net$third-party
 ||klarnaservices.com$third-party
 ||klaviyo.com$third-party
@@ -1319,6 +1342,7 @@
 ||mediacom.com$third-party
 ||mediaforge.com$third-party
 ||mediago.io$third-party
+||medialead.de$third-party
 ||mediamath.com$third-party
 ||mediametrics.ru$third-party
 ||mediametrie-estat.com$third-party
@@ -1561,6 +1585,7 @@
 ||owneriq.com$third-party
 ||owneriq.net$third-party
 ||ownlocal.com$third-party
+||ownpage.fr$third-party
 ||p-n.io$third-party
 ||p-td.com$third-party
 ||p.brsrvr.com$third-party
@@ -1613,6 +1638,7 @@
 ||pheedo.com$third-party
 ||phonalytics.com$third-party
 ||phonefactor.net$third-party
+||photorank.me$third-party
 ||piano.io$third-party
 ||picadmedia.com$third-party
 ||picreel.com$third-party
@@ -1754,6 +1780,7 @@
 ||reemo-ad.jp$third-party
 ||reevoo.com$third-party
 ||refersion.com$third-party
+||reflow.tv$third-party
 ||rehabilitatereason.com$third-party
 ||reichelcormier.bid$third-party
 ||reinvigorate.net$third-party
@@ -1929,6 +1956,7 @@
 ||silver-path.com$third-party
 ||silverpop.com$third-party
 ||simility.com$third-party
+||simpleanalyticscdn.com$third-party
 ||simpli.fi$third-party
 ||sincerebuffalo.com$third-party
 ||singlefeed.com$third-party
@@ -2019,6 +2047,7 @@
 ||srvmath.com$third-party
 ||sspinc.io$third-party
 ||stackadapt.com$third-party
+||stackla.com$third-party
 ||staffhub.ms$third-party
 ||stakingsmile.com$third-party
 ||stalesummer.com$third-party
@@ -2050,6 +2079,7 @@
 ||stretchsneeze.com$third-party
 ||stretchsquirrel.com$third-party
 ||stripe.network$third-party
+||stripst.com$third-party
 ||strivesidewalk.com$third-party
 ||stroeer.de$third-party
 ||strokesystem.com$third-party
@@ -2147,14 +2177,17 @@
 ||trackingsoft.com$third-party
 ||trackjs.com$third-party
 ||tradedoubler.com$third-party
+||tradelab.fr$third-party
 ||tradetracker.com$third-party
 ||tradetracker.net$third-party
 ||tradiewebguys.com.au$third-party
+||traffic-media.co.uk$third-party
 ||trafficfactory.biz$third-party
 ||trafficfactory.com$third-party
 ||trafficfacts.com$third-party
 ||traffichaus.com$third-party
 ||trafficjunky.com$third-party
+||trafficjunky.net$third-party
 ||trafficmanager.net$third-party
 ||trafficscore.com$third-party
 ||trafficstars.com$third-party
@@ -2180,6 +2213,7 @@
 ||trustedsite.com$third-party
 ||trustx.org$third-party
 ||tsyndicate.com$third-party
+||ttarget.ru$third-party
 ||tubemogul.com$third-party
 ||tumbleicicle.com$third-party
 ||tumri.net$third-party
@@ -2195,6 +2229,7 @@
 ||ubembed.com$third-party
 ||ucfunnel.com$third-party
 ||udmserve.net$third-party
+||ufpcdn.com$third-party
 ||uidapi.com$third-party
 ||uk.edgekey.net$third-party
 ||umbel.com$third-party
@@ -2224,6 +2259,7 @@
 ||useinsider.com$third-party
 ||uselesslumber.com$third-party
 ||usemax.de$third-party
+||usemessages.com$third-party
 ||user.com$third-party
 ||userapi.com$third-party
 ||usercentrics.eu$third-party
@@ -2231,6 +2267,7 @@
 ||userlike.com$third-party
 ||userreport.com$third-party
 ||usocial.pro$third-party
+||utarget.ru$third-party
 ||uuidksinc.net$third-party
 ||v12data.com$third-party
 ||valueclick.com$third-party
@@ -2240,6 +2277,7 @@
 ||vcmedia.vn$third-party
 ||vdna-assets.com$third-party
 ||vdopia.com$third-party
+||vdx.tv$third-party
 ||velti.com$third-party
 ||venatusmedia.com$third-party
 ||vendemore.com$third-party
@@ -2281,10 +2319,12 @@
 ||volatilevessel.com$third-party
 ||voraciousgrip.com$third-party
 ||vox.map.fastly.net$third-party
+||vpdcp.com$third-party
 ||vresp.com$third-party
 ||vrtcal.com$third-party
 ||vserv.com$third-party
 ||vserv.mobi$third-party
+||vtex.com.br$third-party
 ||vwo.com$third-party
 ||vwonwkaqvq-a.global.ssl.fastly.net$third-party
 ||w3counter.com$third-party
@@ -2352,6 +2392,7 @@
 ||wovn.io$third-party
 ||wowanalytics.co.uk$third-party
 ||wpadmngr.com$third-party
+||wpncdn.com$third-party
 ||wpp.com$third-party
 ||wpshsdk.com$third-party
 ||wpushsdk.com$third-party
@@ -2393,6 +2434,7 @@
 ||yottaa.com$third-party
 ||yp.com$third-party
 ||yumenetworks.com$third-party
+||zadn.vn$third-party
 ||zanox-affiliate.de$third-party
 ||zanox.com$third-party
 ||zatnoh.com$third-party
