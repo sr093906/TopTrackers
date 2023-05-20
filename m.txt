@@ -110,6 +110,7 @@
 ||adality.de$third-party
 ||adalliance.io$third-party
 ||adalyser.com$third-party
+||adap.tv$third-party
 ||adapf.com$third-party
 ||adara.com$third-party
 ||adaraanalytics.com$third-party
@@ -393,6 +394,7 @@
 ||appsci.io$third-party
 ||appsflyer.com$third-party
 ||aprtx.com$third-party
+||apture.com$third-party
 ||aquantive.com$third-party
 ||aralego.com$third-party
 ||aralego.net$third-party
@@ -785,6 +787,7 @@
 ||concert.io$third-party
 ||condemnedcomb.com$third-party
 ||condenastdigital.com$third-party
+||conduit.com$third-party
 ||confesschairs.com$third-party
 ||confiant-integrations.net$third-party
 ||connatix.com$third-party
@@ -1341,6 +1344,7 @@
 ||helpscout.net$third-party
 ||hentaigold.net$third-party
 ||hexagon-analytics.com$third-party
+||heyzap.com$third-party
 ||hhbypdoecp.com$third-party
 ||hhkld.com$third-party
 ||hi-media.com$third-party
@@ -1476,6 +1480,7 @@
 ||integralads.com$third-party
 ||intelligenceadx.com$third-party
 ||intellitxt.com$third-party
+||intensedebate.com$third-party
 ||intentiq.com$third-party
 ||intentmedia.com$third-party
 ||intentmedia.net$third-party
@@ -1639,6 +1644,7 @@
 ||livecom.net$third-party
 ||liveintent.com$third-party
 ||livelyreward.com$third-party
+||liverail.com$third-party
 ||liveramp.com$third-party
 ||livetex.ru$third-party
 ||lkqd.com$third-party
@@ -2430,6 +2436,7 @@
 ||sas.com$third-party
 ||sascdn.com$third-party
 ||satisfycork.com$third-party
+||saymedia.com$third-party
 ||sbermarketing.ru$third-party
 ||sbis.link$third-party
 ||sc-static.net$third-party
@@ -2797,6 +2804,7 @@
 ||threetruck.com$third-party
 ||thrtle.com$third-party
 ||thunderhead.com$third-party
+||tidaltv.com$third-party
 ||tidiochat.com$third-party
 ||tinymce.com$third-party
 ||tiqcdn.com$third-party
@@ -2910,10 +2918,12 @@
 ||twinrdsyn.com$third-party
 ||twyn-group.com$third-party
 ||twyn.com$third-party
+||tynt.com$third-party
 ||typicalteeth.com$third-party
 ||u5e.com$third-party
 ||ubbfpm.com$third-party
 ||ubembed.com$third-party
+||ubermedia.com$third-party
 ||ucfunnel.com$third-party
 ||uciservice.com$third-party
 ||udesk.cn$third-party
@@ -2999,6 +3009,7 @@
 ||vidcrunch.com$third-party
 ||videoamp.com$third-party
 ||videobyte.com$third-party
+||videoegg.com$third-party
 ||videohub.tv$third-party
 ||videonow.ru$third-party
 ||videoplayerhub.com$third-party
@@ -3134,6 +3145,7 @@
 ||wpshsdk.com$third-party
 ||wpushsdk.com$third-party
 ||wrufer.com$third-party
+||wsod.com$third-party
 ||wt-eu02.net$third-party
 ||wt-safetag.com$third-party
 ||wtp101.com$third-party
