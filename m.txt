@@ -4,7 +4,6 @@
 ! Expires: 60 days 
 !
 ! Version: 2023.05.06
-!
 ||00px.net$third-party
 ||1223f33efe.com$third-party
 ||1666210260.rsc.cdn77.org$third-party
@@ -479,6 +478,7 @@
 ||batanga.com$third-party
 ||batch.com$third-party
 ||bawdybalance.com$third-party
+||baynote.net$third-party
 ||bbelements.com$third-party
 ||bc0a.com$third-party
 ||bdg.com$third-party
@@ -670,6 +670,7 @@
 ||cdnvideo3.com$third-party
 ||cdnwidget.com$third-party
 ||cedato.com$third-party
+||cedexis.com$third-party
 ||center.io$third-party
 ||certona.net$third-party
 ||cetrk.com$third-party
@@ -719,6 +720,7 @@
 ||clearlink.com$third-party
 ||clearsale.com.br$third-party
 ||clearspring.com$third-party
+||clickability.com$third-party
 ||clickagy.com$third-party
 ||clickbooth.com$third-party
 ||clickcease.com$third-party
@@ -801,6 +803,7 @@
 ||consentmanager.net$third-party
 ||constantcontact.com$third-party
 ||consumable.com$third-party
+||contactatonce.com$third-party
 ||contactimpact.de$third-party
 ||contanuity.com$third-party
 ||contentabc.com$third-party
@@ -871,6 +874,7 @@
 ||cudasvc.com$third-party
 ||cuddlethehyena.com$third-party
 ||cuebiq.com$third-party
+||cuelinks.com$third-party
 ||cumbersomecarpenter.com$third-party
 ||curalate.com$third-party
 ||curvedhoney.com$third-party
@@ -1210,6 +1214,7 @@
 ||freecontent.date$third-party
 ||freeonlineusers.com$third-party
 ||freeskreen.com$third-party
+||freewheel.tv$third-party
 ||freezingbuilding.com$third-party
 ||friendbuy.com$third-party
 ||friends2follow.com$third-party
@@ -1271,6 +1276,7 @@
 ||gettopple.com$third-party
 ||gfx.ms$third-party
 ||ghabovethec.info$third-party
+||gigcount.com$third-party
 ||gimbal.com$third-party
 ||giraff.io$third-party
 ||giraffepiano.com$third-party
@@ -1279,6 +1285,7 @@
 ||gleam.io$third-party
 ||gleamingcow.com$third-party
 ||glisteningguide.com$third-party
+||globaltakeoff.net$third-party
 ||gloriousbeef.com$third-party
 ||gmelius.com$third-party
 ||gmossp-sp.jp$third-party
@@ -1579,6 +1586,7 @@
 ||kncecafvdeu.info$third-party
 ||knitstamp.com$third-party
 ||knottyswing.com$third-party
+||koddi.com$third-party
 ||konduto.com$third-party
 ||kontera.com$third-party
 ||kount.com$third-party
@@ -1632,6 +1640,7 @@
 ||likr.com.tw$third-party
 ||limurol.com$third-party
 ||linezing.com$third-party
+||linkbucks.com$third-party
 ||linkconnector.com$third-party
 ||linker.hr$third-party
 ||linkshare.com$third-party
@@ -1750,8 +1759,10 @@
 ||mediaplex.com$third-party
 ||mediarithmics.com$third-party
 ||mediasquare.fr$third-party
+||mediatoday.ru$third-party
 ||mediatrust.com$third-party
 ||mediav.com$third-party
+||mediavine.com$third-party
 ||mediavoice.com$third-party
 ||mediawallahscript.com$third-party
 ||mediaweaver.jp$third-party
@@ -1828,6 +1839,7 @@
 ||monsido.com$third-party
 ||monu.delivery$third-party
 ||mookie1.com$third-party
+||mopinion.com$third-party
 ||mopub.com$third-party
 ||motigo.com$third-party
 ||motionlessmeeting.com$third-party
@@ -2010,6 +2022,7 @@
 ||openfpcdn.io$third-party
 ||opens.responder.co.il$third-party
 ||openstat.ru$third-party
+||opentracker.net$third-party
 ||openx.com$third-party
 ||openx.net$third-party
 ||openx.org$third-party
@@ -2916,6 +2929,7 @@
 ||twinrdack.com$third-party
 ||twinrdsrv.com$third-party
 ||twinrdsyn.com$third-party
+||twittercounter.com$third-party
 ||twyn-group.com$third-party
 ||twyn.com$third-party
 ||tynt.com$third-party
@@ -2924,6 +2938,7 @@
 ||ubbfpm.com$third-party
 ||ubembed.com$third-party
 ||ubermedia.com$third-party
+||ubertags.com$third-party
 ||ucfunnel.com$third-party
 ||uciservice.com$third-party
 ||udesk.cn$third-party
@@ -2999,6 +3014,7 @@
 ||verticalhealth.net$third-party
 ||verticalresponse.com$third-party
 ||vfgte.com$third-party
+||vgwort.de$third-party
 ||vi-serve.com$third-party
 ||vi.ai$third-party
 ||viadata.store$third-party
@@ -3011,6 +3027,7 @@
 ||videobyte.com$third-party
 ||videoegg.com$third-party
 ||videohub.tv$third-party
+||videologygroup.com$third-party
 ||videonow.ru$third-party
 ||videoplayerhub.com$third-party
 ||vidgyor.com$third-party
@@ -3018,10 +3035,12 @@
 ||vidoomy.com$third-party
 ||vidverto.io$third-party
 ||vidzi.tv$third-party
+||viewbix.com$third-party
 ||viewdeos.com$third-party
 ||viglink.com$third-party
 ||vihub.ru$third-party
 ||vinc.fr$third-party
+||vindicosuite.com$third-party
 ||viqeo.tv$third-party
 ||viralize.tv$third-party
 ||virgul.com$third-party
