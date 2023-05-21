@@ -1361,7 +1361,6 @@
 ||havasedge.com$third-party
 ||hawksearch.com$third-party
 ||hbrd.io$third-party
-||hdslb.com$third-party
 ||healflowers.com$third-party
 ||heapanalytics.com$third-party
 ||heias.com$third-party
