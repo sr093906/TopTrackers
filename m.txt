@@ -1878,7 +1878,6 @@
 ||haustoam.com$third-party
 ||havasedge.com$third-party
 ||haveamint.com$third-party
-||hcn.health$third-party
 ||healflowers.com$third-party
 ||healte.de$third-party
 ||heapanalytics.com$third-party
@@ -4522,4 +4521,3 @@
 ||zqtk.net$third-party
 ||ztrck.me$third-party
 ||zucks.net$third-party
-||$third-party
