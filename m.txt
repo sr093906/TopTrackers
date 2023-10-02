@@ -3641,7 +3641,6 @@
 ||skisofa.com$third-party
 ||skt-asum.com$third-party
 ||skyglue.com$third-party
-||skypeassets.com$third-party
 ||skyword.com$third-party
 ||sleeknote.com$third-party
 ||sleepcartoon.com$third-party
