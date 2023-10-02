@@ -92,6 +92,7 @@
 ||acint.net$third-party
 ||acmbtrc.com$third-party
 ||acmtrk.com$third-party
+||acompli.net$third-party
 ||acq.io$third-party
 ||acquisio.com$third-party
 ||acridtwist.com$third-party
@@ -130,6 +131,7 @@
 ||ad4m.at$third-party
 ||ad4mat.de$third-party
 ||ad6media.fr$third-party
+||adabra.com$third-party
 ||adacado.com$third-party
 ||adadvisor.net$third-party
 ||adalliance.io$third-party
@@ -585,6 +587,7 @@
 ||auditedmedia.com$third-party
 ||auditude.com$third-party
 ||audrte.com$third-party
+||augur.io$third-party
 ||auone.jp$third-party
 ||aurea.com$third-party
 ||authedmine.com$third-party
@@ -709,6 +712,7 @@
 ||bidsimulator.com$third-party
 ||bidsopt.com$third-party
 ||bidstreamserver.com$third-party
+||bidswitch.com$third-party
 ||bidswitch.net$third-party
 ||bidsxplayer.com$third-party
 ||bidtellect.com$third-party
@@ -761,6 +765,7 @@
 ||bmmetrix.com$third-party
 ||bmst.pw$third-party
 ||bmwusa.com$third-party
+||bn.co$third-party
 ||bnc.lt$third-party
 ||bnmla.com$third-party
 ||boilingbeetle.com$third-party
@@ -768,6 +773,7 @@
 ||boilingumbrella.com$third-party
 ||bokep.su$third-party
 ||boldchat.com$third-party
+||bombora.com$third-party
 ||boomeranggmail.com$third-party
 ||boomtrain.com$third-party
 ||boost-next.co.jp$third-party
@@ -775,6 +781,7 @@
 ||boredcrown.com$third-party
 ||boringcoat.com$third-party
 ||botmaker.com$third-party
+||boudja.com$third-party
 ||bounceexchange.com$third-party
 ||bouncex.com$third-party
 ||bouncex.net$third-party
@@ -859,6 +866,7 @@
 ||callmeasurement.com$third-party
 ||callousbrake.com$third-party
 ||callrail.com$third-party
+||callsource.com$third-party
 ||calltouch.ru$third-party
 ||calltrackingmetrics.com$third-party
 ||calltracks.com$third-party
@@ -1053,6 +1061,7 @@
 ||combcompetition.com$third-party
 ||cometlytrack.com$third-party
 ||comfortablecheese.com$third-party
+||comixology.com$third-party
 ||commander1.com$third-party
 ||commandersact.com$third-party
 ||commonswing.com$third-party
@@ -1152,6 +1161,7 @@
 ||createsend11.com$third-party
 ||createsend4.com$third-party
 ||createsend5.com$third-party
+||createspace.com$third-party
 ||creative-serving.com$third-party
 ||creativecdn.com$third-party
 ||crimtan.com$third-party
@@ -1199,6 +1209,7 @@
 ||d41.co$third-party
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz$third-party
 ||dable.io$third-party
+||dac.co.jp$third-party
 ||damagedadvice.com$third-party
 ||damageddistance.com$third-party
 ||damdoor.com$third-party
@@ -1234,6 +1245,7 @@
 ||datingmeetnet.com$third-party
 ||dc-storm.com$third-party
 ||dc-tag.jp$third-party
+||dccomics.com$third-party
 ||ddli.jp$third-party
 ||de17a.com$third-party
 ||dealtale.com$third-party
@@ -1295,6 +1307,7 @@
 ||digitalremedy.com$third-party
 ||digitaltarget.ru$third-party
 ||digitru.st$third-party
+||digits.com$third-party
 ||dimml.io$third-party
 ||dioxidtoluyls.com$third-party
 ||dircont3.com$third-party
@@ -1308,6 +1321,7 @@
 ||distilnetworks.com$third-party
 ||distiltag.com$third-party
 ||districtm.io$third-party
+||districtm.net$third-party
 ||dk4ywix.com$third-party
 ||dkotrack.com$third-party
 ||dl-rms.com$third-party
@@ -1383,6 +1397,7 @@
 ||earnify.com$third-party
 ||earthquakescarf.com$third-party
 ||earthycopy.com$third-party
+||eastdane.com$third-party
 ||easycounter.com$third-party
 ||easyhitcounters.com$third-party
 ||easyliao.com$third-party
@@ -1530,6 +1545,7 @@
 ||eyeblaster.com$third-party
 ||eyenewton.ru$third-party
 ||eyeota.net$third-party
+||eyereturn.com$third-party
 ||eyeviewads.com$third-party
 ||eyeviewdigital.com$third-party
 ||eyewonder.com$third-party
@@ -1542,6 +1558,7 @@
 ||f1.np6.com$third-party
 ||f11-ads.com$third-party
 ||f4cebacks.com$third-party
+||fabric.com$third-party
 ||fabric.io$third-party
 ||facevideosc.com$third-party
 ||facil-iti.com$third-party
@@ -1696,6 +1713,7 @@
 ||fundraiseup.com$third-party
 ||furryfork.com$third-party
 ||fusedeck.net$third-party
+||fusioncom.co.jp$third-party
 ||future.uwindsor.ca$third-party
 ||futurehybrid.tech$third-party
 ||futureplc.com$third-party
@@ -1921,6 +1939,7 @@
 ||hitwebcounter.com$third-party
 ||hlserve.com$third-party
 ||hocgeese.com$third-party
+||hockeyapp.net$third-party
 ||hockeystack.com$third-party
 ||hodes.com$third-party
 ||holder.com.ua$third-party
@@ -1980,6 +1999,7 @@
 ||icrossing.com$third-party
 ||id-visitors.com$third-party
 ||id5-sync.com$third-party
+||id5.io$third-party
 ||idealmedia.io$third-party
 ||idg.com$third-party
 ||idio.co$third-party
@@ -1998,6 +2018,7 @@
 ||illfatedsnail.com$third-party
 ||illustriousoatmeal.com$third-party
 ||im-apps.net$third-party
+||imdb.de$third-party
 ||imedia.cz$third-party
 ||imhd.io$third-party
 ||imiclk.com$third-party
@@ -2036,6 +2057,7 @@
 ||infolinks.com$third-party
 ||infonline.de$third-party
 ||informz.net$third-party
+||infoseek.co.jp$third-party
 ||infox.sg$third-party
 ||infusionsoft.app$third-party
 ||infusionsoft.com$third-party
@@ -2090,6 +2112,7 @@
 ||internetbrands.com$third-party
 ||interpolls.com$third-party
 ||interworksmedia.co.kr$third-party
+||intimatemerger.com$third-party
 ||intorterraon.com$third-party
 ||intowow.com$third-party
 ||inuvo.com$third-party
@@ -2191,6 +2214,7 @@
 ||kargo.com$third-party
 ||kcc0.com$third-party
 ||kctag.net$third-party
+||kenko.com$third-party
 ||kenshoo.com$third-party
 ||kernh41.com$third-party
 ||ketchapp.org$third-party
@@ -2768,6 +2792,7 @@
 ||ntvk1.ru$third-party
 ||ntvpforever.com$third-party
 ||ntvpwpush.com$third-party
+||nudatasecurity.com$third-party
 ||nuffnang.com.my$third-party
 ||nuggad.net$third-party
 ||nui.media$third-party
@@ -2782,6 +2807,7 @@
 ||o-s.io$third-party
 ||o2u.jp$third-party
 ||o333o.com$third-party
+||o365weve.com$third-party
 ||o911o.com$third-party
 ||oadz.com$third-party
 ||oafishobservation.com$third-party
@@ -2814,7 +2840,9 @@
 ||omniture.com$third-party
 ||omtrdc.net$third-party
 ||onaudience.com$third-party
+||onclusive.com$third-party
 ||ondemand.com$third-party
+||onead.com.tw$third-party
 ||onef.pro$third-party
 ||onefeed.co.uk$third-party
 ||onelink.me$third-party
@@ -2825,6 +2853,7 @@
 ||onevision.com.tw$third-party
 ||ongsono.com$third-party
 ||online-metrix.net$third-party
+||onm.de$third-party
 ||onmicrosoft.com$third-party
 ||onnetwork.tv$third-party
 ||onthe.io$third-party
@@ -2919,6 +2948,7 @@
 ||pbbl.co$third-party
 ||pbstck.com$third-party
 ||peacefullimit.com$third-party
+||pebblepost.com$third-party
 ||peer39.com$third-party
 ||peerfly.com$third-party
 ||peerius.com$third-party
@@ -2954,6 +2984,7 @@
 ||phluant.com$third-party
 ||phoenix-widget.com$third-party
 ||phonalytics.com$third-party
+||phonefactor.net$third-party
 ||photographpan.com$third-party
 ||photorank.me$third-party
 ||phywi.org$third-party
@@ -3073,6 +3104,7 @@
 ||pricklydebt.com$third-party
 ||primecaster.net$third-party
 ||primis.tech$third-party
+||prismapp.io$third-party
 ||privacy-center.org$third-party
 ||privacy-mgmt.com$third-party
 ||privacymanager.io$third-party
@@ -3199,6 +3231,7 @@
 ||r7ls.net$third-party
 ||rabbitrifle.com$third-party
 ||radarurl.com$third-party
+||radial.com$third-party
 ||radiateprose.com$third-party
 ||radiumone.com$third-party
 ||rageagainstthesoap.com$third-party
@@ -3206,6 +3239,7 @@
 ||railwayreason.com$third-party
 ||raintwig.com$third-party
 ||rainyrule.com$third-party
+||rakutenadvertising.com$third-party
 ||rakutenmarketing.com$third-party
 ||rambunctiousflock.com$third-party
 ||rampmetrics.com$third-party
@@ -3361,6 +3395,7 @@
 ||rs6.net$third-party
 ||rsz.sk$third-party
 ||rtbanalytics.com$third-party
+||rtbhouse.com$third-party
 ||rtbidder.net$third-party
 ||rtbsystem.com$third-party
 ||rtk.io$third-party
@@ -3594,6 +3629,7 @@
 ||sitetracker.com$third-party
 ||sixscissors.com$third-party
 ||sizesidewalk.com$third-party
+||sizmek.com$third-party
 ||sjsmartcontent.org$third-party
 ||sjv.io$third-party
 ||skcrtxr.com$third-party
@@ -3649,6 +3685,7 @@
 ||sniperlog.ru$third-party
 ||snitcher.com$third-party
 ||snoobi.com$third-party
+||snowplowanalytics.com$third-party
 ||snplow.net$third-party
 ||sobot.com$third-party
 ||soboten.com$third-party
@@ -3672,8 +3709,11 @@
 ||sonobi.com$third-party
 ||sopalk.com$third-party
 ||sophus3.com$third-party
+||sortable.com$third-party
 ||sortext.com$third-party
 ||soundstocking.com$third-party
+||souq.com$third-party
+||sourcepoint.com$third-party
 ||sovrn.com$third-party
 ||sp-trk.com$third-party
 ||spadsync.com$third-party
@@ -3729,6 +3769,7 @@
 ||stack-sonar.com$third-party
 ||stackadapt.com$third-party
 ||stackla.com$third-party
+||staffhub.ms$third-party
 ||stakingbasket.com$third-party
 ||stakingscrew.com$third-party
 ||stakingslope.com$third-party
@@ -3827,6 +3868,7 @@
 ||switchadhub.com$third-party
 ||swoop.com$third-party
 ||swordgoose.com$third-party
+||symplify.com$third-party
 ||syndication.exosrv.com$third-party
 ||syndication.realsrv.com$third-party
 ||synergy-e.com$third-party
@@ -3884,6 +3926,7 @@
 ||tda.link$third-party
 ||tdbtrk.com$third-party
 ||teads.tv$third-party
+||tealium.com$third-party
 ||tealiumiq.com$third-party
 ||teamblue.services$third-party
 ||techhub.co.kr$third-party
@@ -3898,6 +3941,7 @@
 ||teenytinyshirt.com$third-party
 ||teenyvolcano.com$third-party
 ||teethfan.com$third-party
+||telaria.com$third-party
 ||telemetric.dk$third-party
 ||telize.com$third-party
 ||temptteam.com$third-party
@@ -4019,6 +4063,7 @@
 ||traffichunt.com$third-party
 ||trafficjunky.com$third-party
 ||trafficjunky.net$third-party
+||trafficmanager.net$third-party
 ||trafficscanner.pl$third-party
 ||trafficscore.com$third-party
 ||traffictraders.com$third-party
@@ -4133,6 +4178,7 @@
 ||united-infos.net$third-party
 ||unknowncrate.com$third-party
 ||unknowntray.com$third-party
+||unruly.co$third-party
 ||unrulymedia.com$third-party
 ||unrulyvideo.com$third-party
 ||unseenreport.com$third-party
@@ -4240,6 +4286,7 @@
 ||viralhosts.com$third-party
 ||viralize.tv$third-party
 ||virgul.com$third-party
+||virtualearth.net$third-party
 ||visariomedia.com$third-party
 ||visiblemeasures.com$third-party
 ||visibli.com$third-party
@@ -4313,6 +4360,7 @@
 ||web-stat.com$third-party
 ||web.facebook.com$third-party
 ||webantenna.info$third-party
+||webedia-group.com$third-party
 ||webengage.com$third-party
 ||webgains.com$third-party
 ||webglstats.com$third-party
@@ -4366,6 +4414,7 @@
 ||whoson.com$third-party
 ||whoursie.com$third-party
 ||whoustoa.net$third-party
+||wideorbit.com$third-party
 ||widerplanet.com$third-party
 ||widespace.com$third-party
 ||widgetserver.com$third-party
@@ -4382,6 +4431,7 @@
 ||wishloop.com$third-party
 ||wisokykulas.bid$third-party
 ||withcabin.com$third-party
+||withoutabox.com$third-party
 ||wizaly.com$third-party
 ||wknd.ai$third-party
 ||wmcdp.io$third-party
@@ -4406,6 +4456,7 @@
 ||wt-safetag.com$third-party
 ||wtp101.com$third-party
 ||wumufama.com$third-party
+||wunderlist.com$third-party
 ||wurfl.io$third-party
 ||wusa9.com$third-party
 ||wuzbhjpvsf.com$third-party
